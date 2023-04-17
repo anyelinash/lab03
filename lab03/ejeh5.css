@@ -1,0 +1,42 @@
+*{
+    background-color: aliceblue;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 24px;
+    color: #59626D;
+}
+
+.formulario{
+    margin: 20px;
+    font-size: 19px;
+    text-align: center;
+}
+
+#uno{
+    width: 80px;
+    height: 15px;
+}
+
+#dos{
+    width: 80px;
+    height: 15px;
+}
+
+#valor{
+    border-radius: 10%;
+    padding: auto;
+    font-size: 20px;
+}
+
+#cotizador{
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 12%;
+    color: white;
+    background-color: #46535E;
+}
